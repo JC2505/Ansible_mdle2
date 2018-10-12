@@ -1,4 +1,5 @@
 ---
+# Tareas para la instalacion de Redis
 
 - name: Instalar Redis
   apt: pkg=redis-server state=latest
